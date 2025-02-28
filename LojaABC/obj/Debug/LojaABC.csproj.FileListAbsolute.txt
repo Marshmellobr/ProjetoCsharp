@@ -9,3 +9,14 @@ C:\Users\paulo.hgdias\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debu
 C:\Users\paulo.hgdias\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.pdb
 C:\Users\paulo.hgdias\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmLogin.resources
 C:\Users\paulo.hgdias\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmSplash.resources
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\bin\Debug\LojaABC.exe.config
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\bin\Debug\LojaABC.exe
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\bin\Debug\LojaABC.pdb
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.AssemblyReference.cache
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmLogin.resources
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmSplash.resources
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.Properties.Resources.resources
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.GenerateResource.cache
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.CoreCompileInputs.cache
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.exe
+C:\Users\joao.vcarvalho7\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.pdb

@@ -16,5 +16,16 @@ namespace LojaABC
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void botaoSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+
+        }
     }
 }
